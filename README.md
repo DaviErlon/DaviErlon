@@ -1,19 +1,18 @@
 # Olá, bem-vindo ao meu perfil! 
+
 <div>
-  <a href="https://github.com/DaviErlon">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&vCenter=true&width=700&font=Fira+Code&lines=Programming;Computer+Science;Personal+Projects;C,+Go,+Java"/>
   <img height="182em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviErlon&theme=github_dark"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Davi-JAVA" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Davi-GO" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Davi-MYSQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Davi-C" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Davi-CPP" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Davi-RASP" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+<div>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 </div>
-  
+
 ##
 
 <div> 
